@@ -20,4 +20,13 @@ rules:
     - "Палитра: мягкие охры, глубокий зелёный, тёплое огнесвечение."
     - "Формат для книги: 16:9 (горизонталь)."
 
-images_ref_sets: []
+images_ref_sets:
+  - id: "phoenix-core"
+    purpose: "Эталон стиля для Феникса и огненных сцен"
+    files:
+      - images/refs/kako09.01_62457_A_sacred_twilight_forest_cleaning_people_gath_af30b426-dd1c-44cf-a50d-66978abc305c_1.png
+      - images/refs/kako09.01_62457_A_twilight_forest_glade_softly_glowing_with_g_cb9ad000-8580-4ed4-8652-77d3c6277c98_2.png
+      - images/refs/sacred-journey-gilbert-williams.jpg
+      - images/refs/the-abode-of-the-pheonix-gilbert-williams.jpg
+      - images/refs/1-resurrection-gilbert-williams.jpg
+
