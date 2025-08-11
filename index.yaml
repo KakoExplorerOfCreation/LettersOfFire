@@ -1,23 +1,23 @@
 # index.yaml — Canon Index for Letters of Fire
 
 priority:
-  # Пример:
-  # - sources/pdf/laws/laws-of-creation_ru.pdf
-  # - sources/pdf/letters/047-covenant_ru.pdf
-  # - sources/pdf/letters/040-immortal-bird_ru.pdf
+  # 1) Главные источники
+  - "sources/pdf/letters/Законы Творения.pdf"
+  - "sources/pdf/letters/Письмо_1_Когда_ты_вспомнил,_что_жив.pdf"
+
+  # 2) Abd-ru-shin / послания и дополнения
+  - "sources/pdf/letters/Abdrushin_-_V_Svete_Istiny_Poslanie_Gralya_v_3-kh_tomakh.pdf"
+  - "sources/pdf/letters/Abdrushin_-_V_Svete_Istiny_Poslanie_Gralya_1931g.pdf"
+  - "sources/pdf/letters/Abdrushin_-_130_otvetov_Abdrushina.pdf"
+  - "sources/pdf/letters/Abdrushin_-_Otzvuki_k_Poslaniyu_Gralya_-_2_toma.pdf"
+  - "sources/pdf/letters/Abdrushin_-_Desyat_Zapovedey_Bozhikh.doc"
 
 rules:
-  quote_policy: "Цитировать коротко, указывать страницы при возможности."
+  quote_policy: "Цитировать коротко, по возможности указывать страницы/главы."
   visual_constraints:
-    - "Никаких надписей в кадре."
+    - "Без текста/надписей в кадре."
     - "Натуральные материалы."
     - "Палитра: мягкие охры, глубокий зелёный, тёплое огнесвечение."
     - "Формат для книги: 16:9 (горизонталь)."
 
-images_ref_sets:
-  # Пример блока с рефами для конкретного набора
-  # - id: "phoenix-core"
-  #   purpose: "Эталон стиля для Феникса"
-  #   files:
-  #     - images/refs/phoenix-ref-01.webp
-  #     - images/refs/phoenix-ref-02.webp
+images_ref_sets: []
