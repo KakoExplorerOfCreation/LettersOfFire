@@ -17,8 +17,8 @@ rules:
   visual_constraints:
     - "Без текста/надписей в кадре."
     - "Натуральные материалы."
-    - "Палитра: мягкие охры, глубокий зелёный, тёплое огнесвечение."
-    - "Формат для книги: 16:9 (горизонталь)."
+    - "Палитра: огненная оранжевая."
+    - "Формат для книги: горизонтальный (16:9)."
 
 images_ref_sets:
   - id: "phoenix-core"
@@ -29,4 +29,3 @@ images_ref_sets:
       - images/refs/sacred-journey-gilbert-williams.jpg
       - images/refs/the-abode-of-the-pheonix-gilbert-williams.jpg
       - images/refs/1-resurrection-gilbert-williams.jpg
-
